@@ -7,6 +7,6 @@ int main() {
   cin >> name;
   cout << "Hello, " << name << "!\n";
   cout << "Nice to see you learning Git\n";
-  system("pause");
+  syem("pause");
   return 0;
 }
